@@ -11,7 +11,7 @@ const ProjectsSection = () => {
               <h3 className="text-xl font-semibold text-blue-700">Deep Purple AI</h3>
               <p className="text-gray-700 mt-2">
                 An ambitious project to decipher the intricate web of human emotions behind textual communication.
-                Utilizing NLP algorithms, Deep Purple AI aims to bridge the emotional gap in digital interaction, offering nuanced insights into sentiment analysis.                
+                Utilizing NLP algorithms, Deep Purple AI aims to bridge communication gaps in digital interaction, offering nuanced insights with sentiment analysis.                
               </p>
             </div>
     
