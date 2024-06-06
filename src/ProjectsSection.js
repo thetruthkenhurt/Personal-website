@@ -13,6 +13,7 @@ const ProjectsSection = () => {
                 An ambitious project to decipher the intricate web of human emotions behind textual communication.
                 Utilizing NLP algorithms, Deep Purple AI aims to bridge communication gaps in digital interaction, offering nuanced insights with sentiment analysis.                
               </p>
+			  <a href="https://github.com/thetruthkenhurt/DeepPurple_Ken" className="text-blue-500 hover:text-blue-800">View Repository</a>
             </div>
     
 
@@ -42,7 +43,7 @@ const ProjectsSection = () => {
                 Python Scripts for automating tasks in Old School Runescape (OSRS) for self-learning purposes.
                 Exploring automation in gaming environments to enhance understanding of scripting and AI applications of computer vision using libraries like OpenCV.
               </p>
-              <a href="https://github.com/thetruthkenhurt/runescape-automation-scripts" className="text-blue-500 hover:text-blue-800">View, Repository</a>
+              <a href="https://github.com/thetruthkenhurt/runescape-automation-scripts" className="text-blue-500 hover:text-blue-800">View Repository</a>
             </div>
           </div>
         </section>
