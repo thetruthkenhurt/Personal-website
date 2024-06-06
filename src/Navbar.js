@@ -8,6 +8,9 @@ const Navbar = () => {
         <a href="#home" className="px-4 hover:text-gray-200">Home</a>
         <a href="#about" className="px-4 hover:text-gray-200">About</a>
         <a href="#projects" className="px-4 hover:text-gray-200">Projects</a>
+        <a href="/KennethGohCV2024.pdf" download="KennethGoh_Resume" className="px-4 hover:text-gray-200">
+          Download CV
+        </a>
       </div>
     </nav>
   );

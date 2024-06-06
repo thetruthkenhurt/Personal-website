@@ -11,10 +11,9 @@ const AboutSection = () => {
       big data, and enriched by practical, hands-on experience across diverse tech landscapes, including Network Infrastructure & Cybersecurity.
     </p>
     <p className="text-gray-700 mt-4">
-      I'm currently navigating the final year of my Bachelor of Computer Science (Big Data) program
-      at the SIM-University of Wollongong, with a graduation horizon set for September 2024. I bring
-      a multifaceted skill set to the table, spanning advanced programming languages, machine learning
-      algorithm development, and a thorough understanding of cybersecurity best practices.
+      I am actively looking roles in the field of AI & Machine learning, as I navigate the final year of my Bachelor of Computer Science (Big Data) program at SIM-University of Wollongong, with a graduation horizon set for September 2024. I bring
+      a multifaceted skill set to the table, spanning advanced programming languages, data analytics, machine learning
+      pipeline development, and a thorough understanding of cybersecurity best practices.
     </p>
     <p className="text-gray-700 mt-4">
       In the dynamic interplay of technology and social impact, I seek to contribute meaningfully,
