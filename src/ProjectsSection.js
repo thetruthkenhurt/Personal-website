@@ -9,6 +9,7 @@ const ProjectsSection = () => {
             {/* Project 1 */}
             <div className="mb-8">
               <h3 className="text-xl font-semibold text-blue-700">Deep Purple AI</h3>
+			  <img src="/images/deeppurpless.png" alt="Deep Purple" className="w-full sm:w-1/2 mb-4"/>
               <p className="text-gray-700 mt-2">
                 An ambitious project to decipher the intricate web of human emotions behind textual communication.
                 Utilizing NLP algorithms, Deep Purple AI aims to bridge communication gaps in digital interaction, offering nuanced insights with sentiment analysis.                
@@ -19,7 +20,8 @@ const ProjectsSection = () => {
 
             {/* Repeat the structure for each project */}
             <div className="mb-8">
-              <h3 className="text-xl font-semibold text-blue-700">Spam Mail Classification</h3>
+              <h3 className="text-xl font-semibold text-blue-700">Spam Mail Classification</h3> 
+			  <img src="/images/spammailcorrelationheatmap.png" alt="Deep Purple" className="w-full sm:w-1/2 mb-4"/>
               <p className="text-gray-700 mt-2">
                 Classifying spam mails using machine learning models to enhance email filtering, with exploratory data analysis done in Jupyter Notebook.
               </p>
@@ -29,6 +31,7 @@ const ProjectsSection = () => {
             {/* Climate Research Project */}
             <div className="mb-8">
               <h3 className="text-xl font-semibold text-blue-700">Climate Research</h3>
+			   <img src="/images/climateresearchenergyconsumption.png" alt="Climate Research Project" className="w-full sm:w-1/2 mb-4"/>
               <p className="text-gray-700 mt-2">
                 Analyzing trends in climate change in Singapore using Python and machine learning algorithms.
                 This project aims to provide insights into climate patterns and contribute to environmental research.
