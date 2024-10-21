@@ -7,7 +7,7 @@ import ProjectsSection from './ProjectsSection';
 
 function App() {
   return (
-    <div>
+    <div className="scroll-smooth">
       <Navbar />
       <HomeSection />
       <AboutSection />

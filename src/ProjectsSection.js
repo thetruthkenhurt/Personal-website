@@ -6,7 +6,7 @@ const ProjectsSection = () => {
           <h2 className="text-3xl font-bold text-blue-900">My Projects</h2>
           
           <div className="mt-8">
-            {/* Project 1 */}
+            {/* Deep Purple */}
             <div className="mb-8">
               <h3 className="text-xl font-semibold text-blue-700">Deep Purple AI</h3>
 			  <img src="/images/deeppurpless.png" alt="Deep Purple" className="w-full sm:w-1/2 mb-4"/>
@@ -16,8 +16,30 @@ const ProjectsSection = () => {
               </p>
 			  <a href="https://github.com/thetruthkenhurt/DeepPurple_Ken" className="text-blue-500 hover:text-blue-800">View Repository</a>
             </div>
-    
+			
+		    {/* Productivity Assistant*/}
+                <div className="mb-8">
+                    <h3 className="text-xl font-semibold text-blue-700">AI Productivity Assistant</h3>
+                    <img src="/images/productivitytrackerscraper.png" alt="AI Productivity Assistant" className="w-full sm:w-1/2 mb-4" />
+                    <p className="text-gray-700 mt-2">
+                        An AI-powered assistant designed to enhance productivity by automating routine tasks and managing schedules.
+                        This project leverages machine learning algorithms to understand user behavior and optimize workflow.
+                    </p>
+                    <a href="https://github.com/thetruthkenhurt/ai-productivity-assistant" className="text-blue-500 hover:text-blue-800">View Repository</a>
+                </div>
 
+            {/* Solar Panel Classification */}
+                <div className="mb-8">
+                    <h3 className="text-xl font-semibold text-blue-700">Solar Panel Classification Project</h3>
+                    <img src="/images/solarpanelprediction.png" alt="Solar Panel Classification Project" className="w-full sm:w-1/2 mb-4" />
+                    <p className="text-gray-700 mt-2">
+                        A machine learning project focused on classifying solar panels using image recognition techniques.
+                        The goal is to assist in the efficient management and maintenance of solar panel installations.
+                    </p>
+                    <a href="https://github.com/thetruthkenhurt/solar-panel-classification" className="text-blue-500 hover:text-blue-800">View Repository</a>
+                </div>
+            </div>
+			
             {/* Repeat the structure for each project */}
             <div className="mb-8">
               <h3 className="text-xl font-semibold text-blue-700">Spam Mail Classification</h3> 
