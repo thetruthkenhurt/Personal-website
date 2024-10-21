@@ -5,7 +5,7 @@ const AboutSection = () => {
     <section id="about" className="p-8 bg-gray-100">
       <h2 className="text-3xl font-bold text-blue-900">About Me</h2>
       <p className="text-gray-700 mt-4">
-        Welcome! I’m Kenneth, a passionate tech enthusiast specializing in the ethical development of AI and machine learning technologies. I recently graduated with a Bachelor of Computer Science (Big Data) from SIM-University of Wollongong in September 2024. My academic journey is complemented by extensive hands-on experience across diverse tech domains, including Network Infrastructure and Cybersecurity.
+        Welcome! I’m Kenneth, a passionate tech enthusiast based in Singapore, specializing in the ethical development of AI and machine learning technologies. I recently graduated with a Bachelor of Computer Science (Big Data) from SIM-University of Wollongong in September 2024. My academic journey is complemented by extensive hands-on experience across diverse tech domains, including Network Infrastructure and Cybersecurity.
       </p>
       <p className="text-gray-700 mt-4">
         I am actively seeking opportunities in the fields of AI and Machine Learning, eager to apply my robust skill set to innovative projects. My expertise spans advanced programming languages, data analytics, machine learning pipeline development, and a comprehensive understanding of cybersecurity best practices. I have developed and deployed machine learning models, leveraged big data technologies to derive actionable insights, and implemented plus upgraded secure network solutions that safeguard critical information in the healthcare sector.
