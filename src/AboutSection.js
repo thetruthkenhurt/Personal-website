@@ -31,21 +31,6 @@ const AboutSection = () => {
           <li>Certified Ethical Hacker (CEH)</li>
         </ul>
       </div>
-      <div className="mt-6">
-        <h3 className="text-2xl font-semibold text-blue-800">Projects</h3>
-        <ul className="list-disc list-inside text-gray-700 mt-2">
-          {/* Replace the placeholders below with your actual projects */}
-          <li><strong>[Your Project Name]:</strong> Brief description of the project, your role, technologies used, and outcomes.</li>
-          <li><strong>[Internship/Work Experience]:</strong> Description of your role, responsibilities, and achievements.</li>
-        </ul>
-      </div>
-      <div className="mt-6">
-        <h3 className="text-2xl font-semibold text-blue-800">Portfolio</h3>
-        <ul className="list-disc list-inside text-gray-700 mt-2">
-          <li><strong>Website:</strong> <a href="https://yourportfolio.com" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">yourportfolio.com</a></li>
-          <li><strong>GitHub:</strong> <a href="https://github.com/yourusername" className="text-blue-600 underline" target="_blank" rel="noopener noreferrer">github.com/yourusername</a></li>
-        </ul>
-      </div>
     </section>
   );
 };
